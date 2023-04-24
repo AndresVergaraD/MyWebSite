@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #395E66;
+  }
+
+  #encabezado{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  #tituloEncabezado{
+    font-size: 73px;
+    font-family: emoji;
+    color: rgb(255, 255, 255);
+    }
+
+    #subtituloEncabezado{
+        color: #FFDF2B;
+        font-size: 59px;
+    }
+
+
+
+    #subitutlo{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: crimson;
+
+    }
