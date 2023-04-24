@@ -19,14 +19,19 @@ body {
     color: rgb(255, 255, 255);
     }
 
-    #encabezado2{
+    #encabezado11{
+      font-size: 73px;
+      font-family: emoji;
+      color: rgb(255, 255, 255);
+      }
+    #encabezado12{
         color: #FFDF2B;
         font-size: 59px;
     }
 
 
 
-    #encabezado3{
+    #encabezado13{
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: crimson;
 
