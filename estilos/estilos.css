@@ -4,6 +4,7 @@ body {
   }
 
   #encabezado{
+    margin: 0%;
     color: white;
     font-size: 20px;
     display: flex;
@@ -12,20 +13,20 @@ body {
   }
 
 
-  #tituloEncabezado{
+  #encabezado1{
     font-size: 73px;
     font-family: emoji;
     color: rgb(255, 255, 255);
     }
 
-    #subtituloEncabezado{
+    #encabezado2{
         color: #FFDF2B;
         font-size: 59px;
     }
 
 
 
-    #subitutlo{
+    #encabezado3{
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: crimson;
 
