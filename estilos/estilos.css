@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+
+
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #395E66;
   }
 
   #encabezado{
+    font-family: 'Vina Sans', cursive;
     margin: 0%;
+    margin-top: 40px;
     color: white;
     font-size: 20px;
     display: flex;
@@ -14,17 +21,26 @@ body {
 
 
   #encabezado1{
+    border-radius: 20px;
     font-size: 73px;
-    font-family: emoji;
     color: rgb(255, 255, 255);
+    margin:0px;
     }
 
     #encabezado11{
+      margin:0px;
+      margin-top: 40px;
+      
       font-size: 73px;
-      font-family: emoji;
+      font-family: 'Courier New', Courier, monospace;
       color: rgb(255, 255, 255);
       }
+
+
     #encabezado12{
+        margin:0px;
+        padding-top:0px;
+      
         color: #FFDF2B;
         font-size: 59px;
     }
@@ -34,5 +50,6 @@ body {
     #encabezado13{
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: crimson;
+        border-radius: 20px;
 
     }
