@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     align-items: center;
   }
-
+  
 
   #encabezado1{
     border-radius: 20px;
@@ -71,4 +71,14 @@ body {
         color: crimson;
         border-radius: 20px;
 
+    }
+
+
+    #redes{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
     }
