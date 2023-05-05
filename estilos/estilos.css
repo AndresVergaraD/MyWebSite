@@ -8,6 +8,25 @@ body {
     background-color: #395E66;
   }
 
+  #logoIzquierdo{
+    width: 126px;
+    height: 150px;
+  }
+
+  #logoDerecho{
+    
+    width: 150px;
+    height: 230px;
+
+  }
+   
+
+
+  #welcome{
+    display: flex;
+  }
+  
+
   #encabezado{
     font-family: 'Vina Sans', cursive;
     margin: 0%;
